@@ -1,1 +1,1 @@
-# ImageDetector
+# Image-Analyzer
